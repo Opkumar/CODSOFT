@@ -1,1 +1,1 @@
-Landing page
+Landing page of manoyog app
