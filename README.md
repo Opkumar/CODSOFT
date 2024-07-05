@@ -1,1 +1,1 @@
-Landing page of manoyog
+Landing page
